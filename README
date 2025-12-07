@@ -1,0 +1,1 @@
+This C program implements a simplified insurance premium evaluation system. It calculates a yearly premium for a customer based on three main criteria: age, gender, and health condition. The program uses arithmetic, relational, and logical operators alongside nested if-else conditions to handle the complex decision-based computation required by the defined insurance rules.
